@@ -155,8 +155,7 @@ cat-dog-classification/
 ├── Cat_Dog_Classification.ipynb
 ├── README.md
 ├── requirements.txt
-├── .gitignore
-└── dataset/
+├── .gitignore/
 ```
 
 ---
